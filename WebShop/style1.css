@@ -1,0 +1,90 @@
+body{
+background-color:#C0C0C0;
+border-width:2px; 
+border-color:#FFFFFF;
+
+
+}
+.logowraper{
+	width:1000px;
+}
+.mylogo{
+	float:left;
+	margin-right:20px;	
+}
+.mylogo1{
+	float:right;
+}
+#header{
+margin-left:auto;
+margin-right:auto;
+width:976px;
+overflow:hidden;
+padding:10px;
+border:2px #000000 solid;
+background-color:#789;	
+}
+ h1{
+	font-size:55px;
+	color:#FFF;
+	text-align:center;
+	font-family:Georgia;
+}
+#wrapper{
+margin-left:auto;
+margin-right:auto;
+width:996px;
+border:2px #000000 solid;
+background-color:#ADADAD;
+overflow:hidden;
+}
+#logofooter{
+	float:right;
+}
+a{
+font-size:24px;
+text-decoration:none;
+}
+a:hover {
+    color: #C6E2FF;
+}
+#lista{
+	float:left;
+}
+#footer{
+	margin-left:auto;
+    margin-right:auto;
+	background-color:#789;
+	border:2px #000000 solid;
+	overflow:hidden;
+	width:996px;
+}
+#listanavigacija {
+	margin: 0 auto;
+    padding:0;
+	background-color:#383838;
+	overflow:hidden;
+	border:2px #000000 solid;
+}
+#navigacija li{
+	float:left;
+	list-style-type:none;
+	
+}
+#listanavigacija a{
+	display: block;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 10px 14px;
+    text-decoration: none;
+	
+}
+#listanavigacija a:hover{
+	color:#00FFFF;
+	background-color:#000000;
+}
+#navigacija{
+	width:1000px;
+	margin-left:auto;
+    margin-right:auto;
+}

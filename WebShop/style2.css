@@ -1,0 +1,101 @@
+body{
+border-width:2px; 
+border-color:#000000;
+background-color:#595959;
+
+}
+#header{
+width:976px;
+overflow:hidden;
+padding:10px;
+border:2px #000000 solid;
+background-color:#789;
+margin-left:auto;
+margin-right:auto	
+}
+ h1{
+	font-size:80px;
+	color:#FFF;
+	text-align:center;
+	font-family:Georgia;
+}
+#wrapper{
+width:996px;
+border:2px #000000 solid;
+background-color:#ADADAD;
+overflow:hidden;
+margin-left:auto;
+margin-right:auto;
+
+}
+p{
+	font-size:24px;
+}
+.pro{
+float:left;
+margin-right:50px;
+width:300px;
+
+}
+.prizvodi{
+clear:left;
+padding:10px;
+}
+.mylogo{
+	float:left;
+	margin-right:20px;	
+}
+.mylogo1{
+	float:right;
+}
+#footer{
+	margin-left:auto;
+    margin-right:auto;
+	background-color:#789;
+	border:2px #000000 solid;
+	overflow:hidden;
+	width:996px;
+}
+#logofooter{
+	float:right;
+}
+a{
+font-size:24px;
+text-decoration:none;
+}
+#lista{
+	float:left;
+}
+a:hover {
+    color: #C6E2FF;
+}
+#listanavigacija {
+	margin: 0 auto;
+    padding:0;
+	background-color:#668B8B;
+	overflow:hidden;
+	border:2px #000000 solid;
+}
+#navigacija li{
+	float:left;
+	list-style-type:none;
+	
+}
+#listanavigacija a{
+	display: block;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 10px 14px;
+    text-decoration: none;
+	
+}
+#listanavigacija a:hover{
+	color:#00FFFF;
+	background-color:#104E8B;
+}
+#navigacija{
+margin-left:auto;
+margin-right:auto;
+width:1000px;
+}
+
